@@ -1,23 +1,130 @@
 [
   {
-    "categoria": "Estructuras Indirectas",
+    "categoria": "Estructuras Indirectas (Want/Need/Tell)",
+    "tipo": "multi",
     "pregunta": "Quiero que trabajes.",
     "opciones": ["I want you to work", "I want that you work", "I want you work"],
     "correcta": 0,
-    "explicacion": "Usamos: Persona + TO + Acción (sin usar 'that')."
+    "explicacion": "Estructura: Want + Persona + TO + Acción."
   },
   {
-    "categoria": "Estructuras Indirectas",
+    "categoria": "Estructuras Indirectas (Want/Need/Tell)",
+    "tipo": "multi",
     "pregunta": "Necesito que ella venga.",
     "opciones": ["I need that she comes", "I need her to come", "I need her come"],
     "correcta": 1,
     "explicacion": "Usamos el pronombre de objeto 'her' seguido de 'to come'."
   },
   {
-    "categoria": "Estructuras Indirectas",
-    "pregunta": "Diles que llamen.",
-    "opciones": ["Tell them to call", "Tell to them call", "Say them that call"],
-    "correcta": 0,
-    "explicacion": "Estructura directa: Tell + them + to + call."
+    "categoria": "Estados de Ánimo (EN -> ES)",
+    "tipo": "input",
+    "pregunta": "How do you actually feel? - I'm really scared about the presentation.",
+    "respuesta": "estoy muy asustado por la presentación",
+    "explicacion": "'Scared' significa asustado/a o con miedo."
+  },
+  {
+    "categoria": "Estados de Ánimo (EN -> ES)",
+    "tipo": "input",
+    "pregunta": "How do you actually feel? - She was completely freaked out by the news.",
+    "respuesta": "ella estaba completamente aterrorizada por la noticia",
+    "explicacion": "'Freaked out' expresa estar en shock, asustado o aterrorizado."
+  },
+  {
+    "categoria": "Estados de Ánimo (EN -> ES)",
+    "tipo": "input",
+    "pregunta": "How do you actually feel? - I feel overwhelmed with so much work.",
+    "respuesta": "me siento abrumado con tanto trabajo",
+    "explicacion": "'Overwhelmed' significa abrumado/a por saturación."
+  },
+  {
+    "categoria": "Estados de Ánimo (EN -> ES)",
+    "tipo": "input",
+    "pregunta": "How do you actually feel? - He is curious about the new project.",
+    "respuesta": "él está curioso sobre el nuevo proyecto",
+    "explicacion": "'Curious' expresa curiosidad o deseo de aprender."
+  },
+  {
+    "categoria": "Nivel 1: Básico",
+    "tipo": "input",
+    "pregunta": "Tengo que hacer una llamada.",
+    "respuesta": "i have to make a call",
+    "explicacion": "Estructura: I have to make a call."
+  },
+  {
+    "categoria": "Nivel 1: Básico",
+    "tipo": "input",
+    "pregunta": "Necesito comprar algo de comer.",
+    "respuesta": "i need to buy something to eat",
+    "explicacion": "Estructura: I need to buy something to eat."
+  },
+  {
+    "categoria": "Nivel 1: Básico",
+    "tipo": "input",
+    "pregunta": "Voy a revisar mi correo.",
+    "respuesta": "i am going to check my email",
+    "explicacion": "Estructura: I am going to check my email."
+  },
+  {
+    "categoria": "Nivel 1: Básico",
+    "tipo": "input",
+    "pregunta": "Tengo ganas de tomar café.",
+    "respuesta": "i feel like drinking coffee",
+    "explicacion": "Estructura: I feel like drinking coffee."
+  },
+  {
+    "categoria": "Nivel 1: Básico",
+    "tipo": "input",
+    "pregunta": "Quiero pedir la cuenta.",
+    "respuesta": "i want to ask for the bill",
+    "explicacion": "Estructura: I want to ask for the bill."
+  },
+  {
+    "categoria": "Nivel 2: Intermedio",
+    "tipo": "input",
+    "pregunta": "Quiero que me acompañes al médico.",
+    "respuesta": "i want you to go to the doctor with me",
+    "explicacion": "Estructura: I want you to go to the doctor with me."
+  },
+  {
+    "categoria": "Nivel 2: Intermedio",
+    "tipo": "input",
+    "pregunta": "Necesitamos que nos expliques de nuevo.",
+    "respuesta": "we need you to explain to us again",
+    "explicacion": "Estructura: We need you to explain to us again."
+  },
+  {
+    "categoria": "Nivel 2: Intermedio",
+    "tipo": "input",
+    "pregunta": "Diles que preparen la sala.",
+    "respuesta": "tell them to prepare the room",
+    "explicacion": "Estructura: Tell them to prepare the room."
+  },
+  {
+    "categoria": "Nivel 2: Intermedio",
+    "tipo": "input",
+    "pregunta": "Ella quiere que vayamos el sábado.",
+    "respuesta": "she wants us to go on saturday",
+    "explicacion": "Estructura: She wants us to go on Saturday."
+  },
+  {
+    "categoria": "Nivel 3: Avanzado",
+    "tipo": "input",
+    "pregunta": "Me gustaría que consideraras esta propuesta.",
+    "respuesta": "i would like you to consider this proposal",
+    "explicacion": "Estructura: I would like you to consider this proposal."
+  },
+  {
+    "categoria": "Nivel 3: Avanzado",
+    "tipo": "input",
+    "pregunta": "Él insistió en que firmáramos el contrato.",
+    "respuesta": "he insisted on us signing the contract",
+    "explicacion": "Estructura: He insisted on us signing the contract."
+  },
+  {
+    "categoria": "Nivel 3: Avanzado",
+    "tipo": "input",
+    "pregunta": "Es preferible que nos avises con anticipación.",
+    "respuesta": "it is better for you to let us know in advance",
+    "explicacion": "Estructura: It is better for you to let us know in advance."
   }
 ]
