@@ -1,0 +1,23 @@
+[
+  {
+    "categoria": "Estructuras Indirectas",
+    "pregunta": "Quiero que trabajes.",
+    "opciones": ["I want you to work", "I want that you work", "I want you work"],
+    "correcta": 0,
+    "explicacion": "Usamos: Persona + TO + Acción (sin usar 'that')."
+  },
+  {
+    "categoria": "Estructuras Indirectas",
+    "pregunta": "Necesito que ella venga.",
+    "opciones": ["I need that she comes", "I need her to come", "I need her come"],
+    "correcta": 1,
+    "explicacion": "Usamos el pronombre de objeto 'her' seguido de 'to come'."
+  },
+  {
+    "categoria": "Estructuras Indirectas",
+    "pregunta": "Diles que llamen.",
+    "opciones": ["Tell them to call", "Tell to them call", "Say them that call"],
+    "correcta": 0,
+    "explicacion": "Estructura directa: Tell + them + to + call."
+  }
+]
