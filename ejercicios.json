@@ -126,5 +126,355 @@
     "pregunta": "Es preferible que nos avises con anticipación.",
     "respuesta": "it is better for you to let us know in advance",
     "explicacion": "Estructura: It is better for you to let us know in advance."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das un café, por favor?",
+    "respuesta": "can i get a coffee please",
+    "explicacion": "Usa la plantilla 'Can I get a...' para pedir alimentos o bebidas de forma natural."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das un vaso de agua?",
+    "respuesta": "can i get a glass of water",
+    "explicacion": "Plantilla directa: Can I get a glass of water."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das la cuenta?",
+    "respuesta": "can i get the bill",
+    "explicacion": "Para pedir la cuenta usas 'Can I get the bill'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das una mesa para dos?",
+    "respuesta": "can i get a table for two",
+    "explicacion": "Plantilla para restaurantes: Can I get a table for two."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das un menú, por favor?",
+    "respuesta": "can i get a menu please",
+    "explicacion": "Plantilla: Can I get a menu please."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das una servilleta?",
+    "respuesta": "can i get a napkin",
+    "explicacion": "Servilleta se dice 'napkin'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das un recibo?",
+    "respuesta": "can i get a receipt",
+    "explicacion": "Recibo o comprobante se dice 'receipt'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das una bolsa?",
+    "respuesta": "can i get a bag",
+    "explicacion": "Bolsa de compras se expresa como 'a bag'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das un té helado?",
+    "respuesta": "can i get an iced tea",
+    "explicacion": "Usamos 'an' antes de vocal: 'an iced tea'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das un sándwich de pollo?",
+    "respuesta": "can i get a chicken sandwich",
+    "explicacion": "Plantilla: Can I get a chicken sandwich."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das una botella de agua?",
+    "respuesta": "can i get a bottle of water",
+    "explicacion": "Botella de agua: 'a bottle of water'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das una cerveza?",
+    "respuesta": "can i get a beer",
+    "explicacion": "Cerveza: 'a beer'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das una rebanada de pizza?",
+    "respuesta": "can i get a slice of pizza",
+    "explicacion": "Rebanada o porción: 'a slice'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das un taxi?",
+    "respuesta": "can i get a taxi",
+    "explicacion": "Para solicitar un servicio: 'Can I get a taxi'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das un reembolso?",
+    "respuesta": "can i get a refund",
+    "explicacion": "Reembolso o devolución de dinero: 'a refund'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das un descuento?",
+    "respuesta": "can i get a discount",
+    "explicacion": "Descuento: 'a discount'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das una cuchara?",
+    "respuesta": "can i get a spoon",
+    "explicacion": "Cuchara: 'a spoon'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das un tenedor?",
+    "respuesta": "can i get a fork",
+    "explicacion": "Tenedor: 'a fork'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das un cuchillo?",
+    "respuesta": "can i get a knife",
+    "explicacion": "Cuchillo: 'a knife'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das una taza de café?",
+    "respuesta": "can i get a cup of coffee",
+    "explicacion": "Taza de café: 'a cup of coffee'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das un vaso de jugo?",
+    "respuesta": "can i get a glass of juice",
+    "explicacion": "Vaso de jugo: 'a glass of juice'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das una ensalada?",
+    "respuesta": "can i get a salad",
+    "explicacion": "Ensalada: 'a salad'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das una hamburguesa?",
+    "respuesta": "can i get a burger",
+    "explicacion": "Hamburguesa: 'a burger'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das un refresco?",
+    "respuesta": "can i get a soda",
+    "explicacion": "Gaseosa o refresco: 'a soda'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das una pajilla?",
+    "respuesta": "can i get a straw",
+    "explicacion": "Pajilla / popote / pitillo: 'a straw'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das un bolígrafo?",
+    "respuesta": "can i get a pen",
+    "explicacion": "Bolígrafo o lapicero: 'a pen'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das un mapa?",
+    "respuesta": "can i get a map",
+    "explicacion": "Mapa: 'a map'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das una llave nueva?",
+    "respuesta": "can i get a new key",
+    "explicacion": "Llave nueva: 'a new key'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das una toalla limpia?",
+    "respuesta": "can i get a clean towel",
+    "explicacion": "Toalla limpia: 'a clean towel'."
+  },
+  {
+    "categoria": "Nivel 1: Básico (Can I get a...)",
+    "tipo": "input",
+    "pregunta": "¿Me das un vaso con hielo?",
+    "respuesta": "can i get a glass with ice",
+    "explicacion": "Vaso con hielo: 'a glass with ice'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que trabajar hoy.",
+    "respuesta": "i have to work today",
+    "explicacion": "Plantilla de obligación cotidiana: 'I have to...' + verbo."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que estudiar inglés.",
+    "respuesta": "i have to study english",
+    "explicacion": "Estructura: I have to study English."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que comprar comida.",
+    "respuesta": "i have to buy food",
+    "explicacion": "Estructura: I have to buy food."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que limpiar la casa.",
+    "respuesta": "i have to clean the house",
+    "explicacion": "Limpiar la casa: 'clean the house'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que cocinar la cena.",
+    "respuesta": "i have to cook dinner",
+    "explicacion": "Cocinar la cena: 'cook dinner'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que hacer una llamada.",
+    "respuesta": "i have to make a call",
+    "explicacion": "Hacer una llamada: 'make a call'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que ir al banco.",
+    "respuesta": "i have to go to the bank",
+    "explicacion": "Ir al banco: 'go to the bank'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que pagar las cuentas.",
+    "respuesta": "i have to pay the bills",
+    "explicacion": "Pagar las cuentas o servicios: 'pay the bills'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que lavar la ropa.",
+    "respuesta": "i have to do the laundry",
+    "explicacion": "Lavar la ropa: 'do the laundry'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que despertar temprano.",
+    "respuesta": "i have to wake up early",
+    "explicacion": "Despertarse temprano: 'wake up early'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que ir al supermercado.",
+    "respuesta": "i have to go to the supermarket",
+    "explicacion": "Ir al supermercado: 'go to the supermarket'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que sacar al perro.",
+    "respuesta": "i have to walk the dog",
+    "explicacion": "Sacar a pasear al perro: 'walk the dog'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que enviar un correo.",
+    "respuesta": "i have to send an email",
+    "explicacion": "Enviar un correo: 'send an email'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que arreglar mi carro.",
+    "respuesta": "i have to fix my car",
+    "explicacion": "Reparar / arreglar: 'fix'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que tomar mis medicinas.",
+    "respuesta": "i have to take my medicine",
+    "explicacion": "Tomar medicina: 'take medicine'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que recargar mi teléfono.",
+    "respuesta": "i have to charge my phone",
+    "explicacion": "Cargar o recargar batería: 'charge my phone'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que lavar los platos.",
+    "respuesta": "i have to wash the dishes",
+    "explicacion": "Lavar los platos: 'wash the dishes'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que ir al médico.",
+    "respuesta": "i have to go to the doctor",
+    "explicacion": "Ir al médico: 'go to the doctor'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que preparar la reunión.",
+    "respuesta": "i have to prepare the meeting",
+    "explicacion": "Preparar la reunión: 'prepare the meeting'."
+  },
+  {
+    "categoria": "Acciones Cotidianas (I have to...)",
+    "tipo": "input",
+    "pregunta": "Tengo que descansar un poco.",
+    "respuesta": "i have to rest a little bit",
+    "explicacion": "Descansar un poco: 'rest a little bit'."
   }
 ]
