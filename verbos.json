@@ -1,0 +1,35 @@
+{
+  "irregulares": [
+    { "infinitive": "Cut", "past": "Cut", "participle": "Cut", "traduccion": "Cortar", "ejemplo": "I need to cut this paper." },
+    { "infinitive": "Put", "past": "Put", "participle": "Put", "traduccion": "Poner / Colocar", "ejemplo": "Put the keys on the table." },
+    { "infinitive": "Cost", "past": "Cost", "participle": "Cost", "traduccion": "Costar", "ejemplo": "How much does it cost?" },
+    { "infinitive": "Let", "past": "Let", "participle": "Let", "traduccion": "Permitir / Dejar", "ejemplo": "Let me check that for you." },
+    { "infinitive": "Set", "past": "Set", "participle": "Set", "traduccion": "Ajustar / Fijar", "ejemplo": "Set the timer for 10 minutes." },
+    { "infinitive": "Buy", "past": "Bought", "participle": "Bought", "traduccion": "Comprar", "ejemplo": "I want to buy a new car." },
+    { "infinitive": "Bring", "past": "Brought", "participle": "Brought", "traduccion": "Traer", "ejemplo": "Please bring the documents." },
+    { "infinitive": "Think", "past": "Thought", "participle": "Thought", "traduccion": "Pensar", "ejemplo": "I thought you were at work." },
+    { "infinitive": "Make", "past": "Made", "participle": "Made", "traduccion": "Hacer / Preparar", "ejemplo": "I need to make coffee." },
+    { "infinitive": "Get", "past": "Got", "participle": "Gotten", "traduccion": "Obtener / Conseguir", "ejemplo": "I got your email." },
+    { "infinitive": "Begin", "past": "Began", "participle": "Begun", "traduccion": "Empezar", "ejemplo": "Let's begin the lesson." },
+    { "infinitive": "Drink", "past": "Drank", "participle": "Drunk", "traduccion": "Beber", "ejemplo": "I need to drink some water." },
+    { "infinitive": "Swim", "past": "Swam", "participle": "Swum", "traduccion": "Nadar", "ejemplo": "I feel like swimming today." },
+    { "infinitive": "Sing", "past": "Sang", "participle": "Sung", "traduccion": "Cantar", "ejemplo": "She sings very well." }
+  ],
+  "acciones": [
+    { "ingles": "Drop off the kids at school", "espanol": "Dejar a los niños en el colegio", "nota": "Acción clave para la rutina de la mañana." },
+    { "ingles": "Pick up the groceries", "espanol": "Recoger / comprar los víveres", "nota": "Uso diario para compras del hogar." },
+    { "ingles": "Run a quick errand", "espanol": "Hacer un mandado rápido", "nota": "Expresión nativa muy común." },
+    { "ingles": "Brew a fresh cup of coffee", "espanol": "Colar / preparar una taza de café", "nota": "Acción específica de cocina." },
+    { "ingles": "Crack an egg", "espanol": "Romper / cascar un huevo", "nota": "Vocabulario de preparación de alimentos." },
+    { "ingles": "Set the alarm for tomorrow", "espanol": "Poner la alarma para mañana", "nota": "Rutina nocturna." },
+    { "ingles": "Fill up the gas tank", "espanol": "Llenar el tanque de gasolina", "nota": "Situaciones de viaje o conducción." },
+    { "ingles": "Catch up with a friend", "espanol": "Ponerse al día con un amigo", "nota": "Expresión social muy usada." },
+    { "ingles": "Take out the trash", "espanol": "Sacar la basura", "nota": "Tarea del hogar cotidiana." },
+    { "ingles": "Tidy up the living room", "espanol": "Ordenar / arreglar un poco la sala", "nota": "Organización rápida del hogar." },
+    { "ingles": "Call in sick for work", "espanol": "Reportarse enfermo en el trabajo", "nota": "Situaciones laborales." },
+    { "ingles": "Put on some sunscreen", "espanol": "Ponerse protector solar", "nota": "Cuidado personal." },
+    { "ingles": "Plug in the phone charger", "espanol": "Enchufar el cargador del teléfono", "nota": "Uso diario de tecnología." },
+    { "ingles": "Check in for a flight", "espanol": "Registrarse / hacer check-in para un vuelo", "nota": "Vocabulario clave para viajes." },
+    { "ingles": "Wind down before bed", "espanol": "Desconectarse / relajarse antes de dormir", "nota": "Rutina de descanso." }
+  ]
+}
