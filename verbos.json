@@ -5,15 +5,51 @@
     { "infinitive": "Cost", "past": "Cost", "participle": "Cost", "traduccion": "Costar", "ejemplo": "How much does it cost?" },
     { "infinitive": "Let", "past": "Let", "participle": "Let", "traduccion": "Permitir / Dejar", "ejemplo": "Let me check that for you." },
     { "infinitive": "Set", "past": "Set", "participle": "Set", "traduccion": "Ajustar / Fijar", "ejemplo": "Set the timer for 10 minutes." },
+    { "infinitive": "Hit", "past": "Hit", "participle": "Hit", "traduccion": "Golpear", "ejemplo": "Don't hit the table." },
+    { "infinitive": "Hurt", "past": "Hurt", "participle": "Hurt", "traduccion": "Doler / Lastimar", "ejemplo": "My ankle hurts a lot." },
+    { "infinitive": "Shut", "past": "Shut", "participle": "Shut", "traduccion": "Cerrar", "ejemplo": "Please shut the door." },
+    { "infinitive": "Read", "past": "Read", "participle": "Read", "traduccion": "Leer", "ejemplo": "I read the news every morning." },
+
     { "infinitive": "Buy", "past": "Bought", "participle": "Bought", "traduccion": "Comprar", "ejemplo": "I want to buy a new car." },
     { "infinitive": "Bring", "past": "Brought", "participle": "Brought", "traduccion": "Traer", "ejemplo": "Please bring the documents." },
     { "infinitive": "Think", "past": "Thought", "participle": "Thought", "traduccion": "Pensar", "ejemplo": "I thought you were at work." },
+    { "infinitive": "Teach", "past": "Taught", "participle": "Taught", "traduccion": "Enseñar", "ejemplo": "He teaches English every day." },
+    { "infinitive": "Catch", "past": "Caught", "participle": "Caught", "traduccion": "Atrapar / Tomar", "ejemplo": "I have to catch the bus." },
+    { "infinitive": "Fight", "past": "Fought", "participle": "Fought", "traduccion": "Pelar / Luchar", "ejemplo": "They fought for their rights." },
+
     { "infinitive": "Make", "past": "Made", "participle": "Made", "traduccion": "Hacer / Preparar", "ejemplo": "I need to make coffee." },
     { "infinitive": "Get", "past": "Got", "participle": "Gotten", "traduccion": "Obtener / Conseguir", "ejemplo": "I got your email." },
+    { "infinitive": "Have", "past": "Had", "participle": "Had", "traduccion": "Tener / Haber", "ejemplo": "I had a great time today." },
+    { "infinitive": "Pay", "past": "Paid", "participle": "Paid", "traduccion": "Pagar", "ejemplo": "I paid the electricity bill." },
+    { "infinitive": "Say", "past": "Said", "participle": "Said", "traduccion": "Decir", "ejemplo": "She said it was okay." },
+    { "infinitive": "Sell", "past": "Sold", "participle": "Sold", "traduccion": "Vender", "ejemplo": "They sold their house." },
+    { "infinitive": "Tell", "past": "Told", "participle": "Told", "traduccion": "Contar / Decir", "ejemplo": "He told me the truth." },
+    { "infinitive": "Find", "past": "Found", "participle": "Found", "traduccion": "Encontrar", "ejemplo": "I found my lost keys." },
+
     { "infinitive": "Begin", "past": "Began", "participle": "Begun", "traduccion": "Empezar", "ejemplo": "Let's begin the lesson." },
     { "infinitive": "Drink", "past": "Drank", "participle": "Drunk", "traduccion": "Beber", "ejemplo": "I need to drink some water." },
     { "infinitive": "Swim", "past": "Swam", "participle": "Swum", "traduccion": "Nadar", "ejemplo": "I feel like swimming today." },
-    { "infinitive": "Sing", "past": "Sang", "participle": "Sung", "traduccion": "Cantar", "ejemplo": "She sings very well." }
+    { "infinitive": "Sing", "past": "Sang", "participle": "Sung", "traduccion": "Cantar", "ejemplo": "She sings very well." },
+    { "infinitive": "Ring", "past": "Rang", "participle": "Rung", "traduccion": "Sonar / Llamar", "ejemplo": "The phone rang twice." },
+    { "infinitive": "Run", "past": "Ran", "participle": "Run", "traduccion": "Correr", "ejemplo": "I run every morning." },
+
+    { "infinitive": "Break", "past": "Broke", "participle": "Broken", "traduccion": "Romper", "ejemplo": "Don't break the glass." },
+    { "infinitive": "Choose", "past": "Chose", "participle": "Chosen", "traduccion": "Elegir", "ejemplo": "Choose your favorite option." },
+    { "infinitive": "Speak", "past": "Spoke", "participle": "Spoken", "traduccion": "Hablar", "ejemplo": "He speaks fluent Spanish." },
+    { "infinitive": "Steal", "past": "Stole", "participle": "Stolen", "traduccion": "Robar", "ejemplo": "Someone stole my bike." },
+    { "infinitive": "Wake", "past": "Woke", "participle": "Woken", "traduccion": "Despertar", "ejemplo": "I wake up at 6 AM." },
+    { "infinitive": "Freeze", "past": "Froze", "participle": "Frozen", "traduccion": "Congelar", "ejemplo": "Water freezes at zero degrees." },
+
+    { "infinitive": "Drive", "past": "Drove", "participle": "Driven", "traduccion": "Conducir / Manejar", "ejemplo": "I drive to work every day." },
+    { "infinitive": "Write", "past": "Wrote", "participle": "Written", "traduccion": "Escribir", "ejemplo": "Write your name here." },
+    { "infinitive": "Ride", "past": "Rode", "participle": "Ridden", "traduccion": "Montar", "ejemplo": "I ride my bicycle on weekends." },
+    { "infinitive": "Rise", "past": "Rose", "participle": "Risen", "traduccion": "Levantarse / Elevarse", "ejemplo": "The sun rises in the east." },
+
+    { "infinitive": "Blow", "past": "Blew", "participle": "Blown", "traduccion": "Soplar", "ejemplo": "The wind blows hard today." },
+    { "infinitive": "Fly", "past": "Flew", "participle": "Flown", "traduccion": "Volar", "ejemplo": "Birds fly south in winter." },
+    { "infinitive": "Grow", "past": "Grew", "participle": "Grown", "traduccion": "Crecer", "ejemplo": "Plants grow fast with water." },
+    { "infinitive": "Know", "past": "Knew", "participle": "Known", "traduccion": "Saber / Conocer", "ejemplo": "I know the answer." },
+    { "infinitive": "Throw", "past": "Threw", "participle": "Thrown", "traduccion": "Lanzar / Tirar", "ejemplo": "Throw the ball to me." }
   ],
   "acciones": [
     { "ingles": "Drop off the kids at school", "espanol": "Dejar a los niños en el colegio", "nota": "Acción clave para la rutina de la mañana." },
