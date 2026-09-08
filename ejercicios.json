@@ -476,5 +476,148 @@
     "pregunta": "Tengo que descansar un poco.",
     "respuesta": "i have to rest a little bit",
     "explicacion": "Descansar un poco: 'rest a little bit'."
+  },
+  [
+  {
+    "categoria": "Plantillas Diarias",
+    "tipo": "input",
+    "pregunta": "Traduce: No quiero ir, pero tengo que hacerlo.",
+    "respuesta": "I don't wanna go, but I have to.",
+    "explicacion": "Plantilla esencial 'I don't wanna... but I have to' usando la reducción nativa de 'want to' a 'wanna'."
+  },
+  {
+    "categoria": "Plantillas Diarias",
+    "tipo": "input",
+    "pregunta": "Traduce: Solo quiero descansar un rato.",
+    "respuesta": "I just wanna rest for a while.",
+    "explicacion": "Estructura 'I just wanna...' ideal para expresar deseos cotidianos directos."
+  },
+  {
+    "categoria": "Acciones Cotidianas",
+    "tipo": "input",
+    "pregunta": "Traduce: Tomar una ducha por la mañana.",
+    "respuesta": "Take a shower",
+    "explicacion": "Verbo fundamental 'take' combinado con rutina matutina."
+  },
+  {
+    "categoria": "Acciones Cotidianas",
+    "tipo": "input",
+    "pregunta": "Traduce: Sacar la basura.",
+    "respuesta": "Take out the trash",
+    "explicacion": "Phrasal action indispensable para las tareas del hogar."
+  },
+  {
+    "categoria": "Acciones Cotidianas",
+    "tipo": "input",
+    "pregunta": "Traduce: Pasar el rato con amigos.",
+    "respuesta": "Hang out with friends",
+    "explicacion": "Expresión social muy común en inglés conversacional."
+  },
+  {
+    "categoria": "Acciones Cotidianas",
+    "tipo": "input",
+    "pregunta": "Traduce: Lavar los platos.",
+    "respuesta": "Do the dishes",
+    "explicacion": "Uso correcto del verbo 'do' para tareas domésticas."
+  },
+  {
+    "categoria": "Acciones Cotidianas",
+    "tipo": "input",
+    "pregunta": "Traduce: Lavar la ropa.",
+    "respuesta": "Do the laundry",
+    "explicacion": "Otra tarea clásica del hogar utilizando 'do'."
+  },
+  {
+    "categoria": "Plantillas Diarias",
+    "tipo": "input",
+    "pregunta": "Traduce: No quiero cocinar, pero tengo que hacerlo.",
+    "respuesta": "I don't wanna cook, but I have to.",
+    "explicacion": "Aplicación de la plantilla de obligación con la acción de cocinar."
+  },
+  {
+    "categoria": "Plantillas Diarias",
+    "tipo": "input",
+    "pregunta": "Traduce: Solo quiero dormir temprano hoy.",
+    "respuesta": "I just wanna sleep early today.",
+    "explicacion": "Uso fluido de 'I just wanna' para expresar planes de descanso."
+  },
+  {
+    "categoria": "Acciones Cotidianas",
+    "tipo": "input",
+    "pregunta": "Traduce: Hacer las compras del supermercado.",
+    "respuesta": "Pick up the groceries",
+    "explicacion": "Acción específica muy utilizada en la rutina de la tarde."
+  },
+  {
+    "categoria": "Acciones Cotidianas",
+    "tipo": "input",
+    "pregunta": "Traduce: Preparar una taza de café.",
+    "respuesta": "Brew a fresh cup of coffee",
+    "explicacion": "Uso del verbo específico 'brew' para café o té."
+  },
+  {
+    "categoria": "Acciones Cotidianas",
+    "tipo": "input",
+    "pregunta": "Traduce: Poner la alarma para mañana.",
+    "respuesta": "Set the alarm for tomorrow",
+    "explicacion": "Rutina nocturna habitual."
+  },
+  {
+    "categoria": "Acciones Cotidianas",
+    "tipo": "input",
+    "pregunta": "Traduce: Dejar a los niños en el colegio.",
+    "respuesta": "Drop off the kids at school",
+    "explicacion": "Phrasal verb 'drop off' aplicado a la rutina familiar."
+  },
+  {
+    "categoria": "Plantillas Diarias",
+    "tipo": "input",
+    "pregunta": "Traduce: No quiero trabajar tarde, pero tengo que hacerlo.",
+    "respuesta": "I don't wanna work late, but I have to.",
+    "explicacion": "Estructura avanzada aplicada a situaciones laborales."
+  },
+  {
+    "categoria": "Plantillas Diarias",
+    "tipo": "input",
+    "pregunta": "Traduce: Solo quiero ver una película.",
+    "respuesta": "I just wanna watch a movie.",
+    "explicacion": "Expresión directa de ocio y entretenimiento."
+  },
+  {
+    "categoria": "Acciones Cotidianas",
+    "tipo": "input",
+    "pregunta": "Traduce: Ordenar un poco la sala.",
+    "respuesta": "Tidy up the living room",
+    "explicacion": "Uso del phrasal verb 'tidy up' para arreglar espacios."
+  },
+  {
+    "categoria": "Acciones Cotidianas",
+    "tipo": "input",
+    "pregunta": "Traduce: Hacer un mandado rápido.",
+    "respuesta": "Run a quick errand",
+    "explicacion": "Expresión nativa para salidas breves por pendientes."
+  },
+  {
+    "categoria": "Acciones Cotidianas",
+    "tipo": "input",
+    "pregunta": "Traduce: Enchufar el cargador del teléfono.",
+    "respuesta": "Plug in the phone charger",
+    "explicacion": "Phrasal verb indispensable 'plug in' para tecnología."
+  },
+  {
+    "categoria": "Plantillas Diarias",
+    "tipo": "input",
+    "pregunta": "Traduce: No quiero hablar de eso, pero tengo que hacerlo.",
+    "respuesta": "I don't wanna talk about it, but I have to.",
+    "explicacion": "Combinación perfecta de la plantilla con expresión conversacional frecuente."
+  },
+  {
+    "categoria": "Plantillas Diarias",
+    "tipo": "input",
+    "pregunta": "Traduce: Solo quiero aprender inglés real.",
+    "respuesta": "I just wanna learn real English.",
+    "explicacion": "Cierre enfocado en la filosofía central del método."
   }
+]
+  
 ]
