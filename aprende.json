@@ -1,44 +1,44 @@
 [
   {
+    "id": "acc-001",
     "categoria": "Acciones Específicas",
     "ingles": "Drop off the kids at school",
     "espanol": "Dejar a los niños en el colegio",
-    "explicacion": "Acción clave para expresar tu rutina matutina con fluidez."
+    "nota": "Acción clave para tu rutina matutina.",
+    "audio": "Drop off the kids at school"
   },
   {
+    "id": "acc-002",
     "categoria": "Acciones Específicas",
     "ingles": "Pick up the groceries",
     "espanol": "Recoger / comprar los víveres",
-    "explicacion": "Expresión natural para las compras del hogar."
+    "nota": "Expresión natural para las compras del hogar.",
+    "audio": "Pick up the groceries"
   },
   {
-    "categoria": "Acciones Específicas",
-    "ingles": "Brew a fresh cup of coffee",
-    "espanol": "Colar / preparar una taza de café",
-    "explicacion": "Verbo específico 'brew' para preparar café o té."
-  },
-  {
+    "id": "plan-001",
     "categoria": "Plantillas de Uso Diario",
-    "ingles": "I feel like going for a walk",
-    "espanol": "Tengo ganas de dar un paseo",
-    "explicacion": "Plantilla 'I feel like + verbo-ING'."
+    "ingles": "I don't wanna go, but I have to",
+    "espanol": "No quiero ir, pero tengo que hacerlo",
+    "nota": "Plantilla cotidiana con reducción de want to → wanna.",
+    "audio": "I don't wanna go, but I have to"
   },
   {
+    "id": "plan-002",
     "categoria": "Plantillas de Uso Diario",
-    "ingles": "I'm planning to stay home today",
-    "espanol": "Tengo planeado quedarme en casa hoy",
-    "explicacion": "Plantilla 'I'm planning to + verbo en infinitivo'."
+    "ingles": "I just wanna sleep early today",
+    "espanol": "Solo quiero dormir temprano hoy",
+    "nota": "Estructura I just wanna... para deseos cotidianos.",
+    "audio": "I just wanna sleep early today"
   },
   {
+    "id": "pron-001",
     "categoria": "Pronunciación & Linked Speech",
     "ingles": "What are you going to do?",
-    "espanol": "En la vida real suena: Whatcha gonna do?",
-    "explicacion": "Linked Speech: Reducción natural de 'What are you' a 'Whatcha'."
-  },
-  {
-    "categoria": "Pronunciación & Linked Speech",
-    "ingles": "Let me check it out",
-    "espanol": "En la vida real suena: Lemme cheki-taut",
-    "explicacion": "Linking: 'Let me' pasa a 'Lemme'."
+    "espanol": "¿Qué vas a hacer?",
+    "nota": "En el habla natural puede sonar parecido a: Whatcha gonna do?",
+    "forma_natural": "Whatcha gonna do?",
+    "audio": "What are you going to do?",
+    "tipo": "linked-speech"
   }
 ]
