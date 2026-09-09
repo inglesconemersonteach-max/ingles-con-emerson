@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cómo se expresa de forma natural 'Tengo ganas de salir' usando plantillas de uso diario?",
+    "opciones": ["A) I want for go out", "B) I feel like going out", "C) I have desire of go"],
+    "correcta": 1
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Cuál es la reducción nativa más común para la frase 'What are you going to do?'",
+    "opciones": ["A) Whatcha gonna do?", "B) What do you going to do?", "C) Wat ar you do?"],
+    "correcta": 0
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué significa la acción específica de cocina: 'Crack an egg'?",
+    "opciones": ["A) Cocinar un huevo duro", "B) Batir la yema", "C) Romper / cascar un huevo"],
+    "correcta": 2
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Cómo se traduce correctamente la acción cotidiana 'Drop off the kids at school'?",
+    "opciones": ["A) Dejar a los niños en el colegio", "B) Recoger a los niños tarde", "C) Llevar almuerzo a la escuela"],
+    "correcta": 0
+  },
+  {
+    "id": 5,
+    "pregunta": "Completa la estructura de deseo cotidiano: 'I just _________ sleep early today'",
+    "opciones": ["A) want for", "B) wanna", "C) would"],
+    "correcta": 1
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué significa la expresión común 'To run out of time'?",
+    "opciones": ["A) Correr contra el reloj", "B) Quedarse sin tiempo", "C) Llegar temprano"],
+    "correcta": 1
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Cómo se dice de forma natural 'No tengo idea' en una conversación rápida?",
+    "opciones": ["A) I have no any idea", "B) Beats me / I have no clue", "C) My mind is empty"],
+    "correcta": 1
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Cuál es el significado de la acción 'Brew coffee'?",
+    "opciones": ["A) Comprar café molido", "B) Preparar / colar café", "C) Tomar café frío"],
+    "correcta": 1
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Cómo se traduce el phrasal verb 'Look forward to'?",
+    "opciones": ["A) Mirar hacia adelante", "B) Tener ilusión / esperar con ganas algo", "C) Buscar algo perdido"],
+    "correcta": 1
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Qué significa la expresión 'Take your time'?",
+    "opciones": ["A) Tómate tu tiempo / sin prisa", "B) Mira el reloj", "C) Date prisa"],
+    "correcta": 0
+  },
+  {
+    "id": 11,
+    "pregunta": "Completa la frase: 'I'm used _________ working under pressure.'",
+    "opciones": ["A) to", "B) for", "C) with"],
+    "correcta": 0
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Cómo se dice en inglés 'Encantado de conocerte' de forma casual?",
+    "opciones": ["A) Nice to meet you", "B) It is a pleasure your lecture", "C) Good to see your face"],
+    "correcta": 0
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué significa la acción 'Pick up groceries'?",
+    "opciones": ["A) Comprar / recoger el mercado o víveres", "B) Tirar la basura", "C) Limpiar la cocina"],
+    "correcta": 0
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Cuál es la forma nativa de decir '¿Qué pasa?' o '¿Qué tal?'",
+    "opciones": ["A) What happens with you?", "B) What's up? / How's it going?", "C) Which is your state?"],
+    "correcta": 1
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué significa el modismo 'Piece of cake'?",
+    "opciones": ["A) Un trozo de pastel", "B) Estar muy difícil", "C) Estar muy fácil / pan comido"],
+    "correcta": 2
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Cómo se traduce 'Turn off the lights'?",
+    "opciones": ["A) Encender las luces", "B) Apagar las luces", "C) Cambiar las bombillas"],
+    "correcta": 1
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué significa 'Call it a day' en el ámbito laboral?",
+    "opciones": ["A) Llamar por teléfono hoy", "B) Terminar la jornada laboral por hoy", "C) Planificar el día"],
+    "correcta": 1
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Cómo se expresa 'Tengo sueño' de manera idiomática?",
+    "opciones": ["A) I have sleep", "B) I am sleepy / I'm dozing off", "C) My eyes are closed"],
+    "correcta": 1
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué significa la acción 'Do the laundry'?",
+    "opciones": ["A) Lavar la ropa", "B) Planchar camisas", "C) Tender la cama"],
+    "correcta": 0
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cuál es la forma correcta de decir 'Depende de ti'?",
+    "opciones": ["A) It depends of you", "B) It's up to you", "C) You decide the control"],
+    "correcta": 1
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué significa 'Hang on a second'?",
+    "opciones": ["A) Colgar un cuadro", "B) Espera un segundo", "C) Sujeta el teléfono con fuerza"],
+    "correcta": 1
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Cómo se traduce 'Manejar bajo la lluvia'?",
+    "opciones": ["A) Drive under the rain", "B) Drive in the rain", "C) Steering with water"],
+    "correcta": 1
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Qué significa la expresión 'Break a leg'?",
+    "opciones": ["A) Romperse una pierna", "B) ¡Mucha suerte! (en teatro/espectáculos)", "C) Correr muy rápido"],
+    "correcta": 1
+  },
+  {
+    "id": 24,
+    "pregunta": "Completa: 'I'm looking _________ my keys everywhere.'",
+    "opciones": ["A) at", "B) for", "C) after"],
+    "correcta": 1
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Qué significa 'Keep in touch'?",
+    "opciones": ["A) Mantenerse en contacto", "B) Tocar madera", "C) No te muevas"],
+    "correcta": 0
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Cómo se dice 'Estoy de acuerdo contigo'?",
+    "opciones": ["A) I am agree with you", "B) I agree with you", "C) I have your reason"],
+    "correcta": 1
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Qué significa la acción 'Wipe the table'?",
+    "opciones": ["A) Ensuciar la mesa", "B) Limpiar / pasar un trapo por la mesa", "C) Armar la mesa"],
+    "correcta": 1
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Cuál es el significado de 'So far, so good'?",
+    "opciones": ["A) Hasta ahora, todo bien", "B) Tan lejos, tan bueno", "C) Muy mal por ahora"],
+    "correcta": 0
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Qué significa 'Make up your mind'?",
+    "opciones": ["A) Maquillarse la cara", "B) Decidirte / tomar una decisión", "C) Inventar una historia"],
+    "correcta": 1
+  },
+  {
+    "id": 30,
+    "pregunta": "Completa: 'She is interested _________ learning English.'",
+    "opciones": ["A) on", "B) in", "C) at"],
+    "correcta": 1
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Qué significa 'Under the weather'?",
+    "opciones": ["A) Debajo de la lluvia", "B) Sentirse enfermo o desanimado", "C) Estar distraído"],
+    "correcta": 1
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Cómo se traduce 'Pagar en efectivo'?",
+    "opciones": ["A) Pay in cash", "B) Pay with money bills", "C) Give physical cash"],
+    "correcta": 0
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Qué significa 'Hit the road'?",
+    "opciones": ["A) Golpear la carretera", "B) Emprender el viaje / ponerse en marcha", "C) Conducir imprudentemente"],
+    "correcta": 1
+  },
+  {
+    "id": 34,
+    "pregunta": "Completa: 'I prefer coffee _________ tea.'",
+    "opciones": ["A) than", "B) to", "C) over than"],
+    "correcta": 1
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Qué significa 'Spill the beans'?",
+    "opciones": ["A) Botar los frijoles", "B) Decir un secreto / contar la verdad", "C) Cocinar rápido"],
+    "correcta": 1
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Cómo se dice 'No importa' de forma común?",
+    "opciones": ["A) It doesn't matter / Never mind", "B) It has no import", "C) Nothing to see"],
+    "correcta": 0
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Qué significa la acción 'Set the alarm'?",
+    "opciones": ["A) Apagar la alarma", "B) Programar / poner la alarma", "C) Comprar un reloj"],
+    "correcta": 1
+  },
+  {
+    "id": 38,
+    "pregunta": "¿Cuál es el significado de 'Cost an arm and a leg'?",
+    "opciones": ["A) Costar un brazo y una pierna (ser extremadamente caro)", "B) Requerir esfuerzo físico", "C) Ser peligroso"],
+    "correcta": 0
+  },
+  {
+    "id": 39,
+    "pregunta": "Completa: 'He is good _________ playing guitar.'",
+    "opciones": ["A) at", "B) in", "C) with"],
+    "correcta": 0
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Qué significa 'Bite the bullet'?",
+    "opciones": ["A) Morder una bala", "B) Afrontar una situación difícil con valentía", "C) Disparar un arma"],
+    "correcta": 1
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Cómo se traduce 'Estacionar el carro' en inglés americano?",
+    "opciones": ["A) Park the car", "B) Leave the automobile", "C) Stop the vehicle"],
+    "correcta": 0
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Qué significa 'Speak of the devil'?",
+    "opciones": ["A) Hablar del diablo (¡ hablando del rey de Roma! )", "B) Decir groserías", "C) Susurrar"],
+    "correcta": 0
+  },
+  {
+    "id": 43,
+    "pregunta": "Completa: 'I look forward _________ hearing from you.'",
+    "opciones": ["A) to", "B) for", "C) at"],
+    "correcta": 0
+  },
+  {
+    "id": 44,
+    "pregunta": "¿Qué significa 'Time flies'?",
+    "opciones": ["A) El tiempo vuela", "B) Los relojes vuelan", "C) Llegamos tarde"],
+    "correcta": 0
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Cómo se dice 'Por si acaso'?",
+    "opciones": ["A) For if case", "B) Just in case", "C) In the moment"],
+    "correcta": 1
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Qué significa 'Once in a blue moon'?",
+    "opciones": ["A) Una vez al mes", "B) Muy rara vez / de uvas a brevas", "C) En noches de luna llena"],
+    "correcta": 1
+  },
+  {
+    "id": 47,
+    "pregunta": "Completa: 'Thank you _________ your help.'",
+    "opciones": ["A) for", "B) to", "C) with"],
+    "correcta": 0
+  },
+  {
+    "id": 48,
+    "pregunta": "¿Qué significa 'To add insult to injury'?",
+    "opciones": ["A) Herir a alguien en el hospital", "B) Echar más leña al fuego / empeorar las cosas", "C) Curar una herida"],
+    "correcta": 1
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Cómo se traduce 'Pedir la cuenta' en un restaurante?",
+    "opciones": ["A) Ask for the check / bill", "B) Require the list of money", "C) Pay the consume"],
+    "correcta": 0
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Qué significa 'Let the cat out of the bag'?",
+    "opciones": ["A) Sacar el gato de la bolsa", "B) Revelar un secreto por descuido", "C) Comprar una mascota"],
+    "correcta": 1
+  }
+]
