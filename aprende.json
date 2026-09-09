@@ -1,0 +1,52 @@
+{
+  "At the restaurant": [
+    { "ingles": "Make a reservation", "espanol": "Hacer una reservación" },
+    { "ingles": "Ask for the menu", "espanol": "Pedir el menú" },
+    { "ingles": "Order the special", "espanol": "Pedir el plato del día" },
+    { "ingles": "Ask for recommendations", "espanol": "Pedir recomendaciones" },
+    { "ingles": "Check the ingredients", "espanol": "Revisar los ingredientes" },
+    { "ingles": "Request extra napkins", "espanol": "Pedir servilletas extras" },
+    { "ingles": "Ask for the bill / check", "espanol": "Pedir la cuenta" },
+    { "ingles": "Leave a tip", "espanol": "Dejar propina" }
+  ],
+  "At the bank": [
+    { "ingles": "Open a bank account", "espanol": "Abrir una cuenta bancaria" },
+    { "ingles": "Deposit cash", "espanol": "Depositar efectivo" },
+    { "ingles": "Withdraw money from ATM", "espanol": "Retirar dinero del cajero" },
+    { "ingles": "Exchange currency", "espanol": "Cambiar divisa / moneda" },
+    { "ingles": "Update my address", "espanol": "Actualizar mi dirección" },
+    { "ingles": "Request a new debit card", "espanol": "Solicitar nueva tarjeta débito" },
+    { "ingles": "Check account balance", "espanol": "Consultar saldo de cuenta" },
+    { "ingles": "Talk to a customer service rep", "espanol": "Hablar con asesor de servicio" }
+  ],
+  "At the supermarket": [
+    { "ingles": "Grab a shopping cart", "espanol": "Tomar un carrito de compras" },
+    { "ingles": "Weigh the vegetables", "espanol": "Pesar los vegetales" },
+    { "ingles": "Check the expiration date", "espanol": "Revisar fecha de vencimiento" },
+    { "ingles": "Look for discounts", "espanol": "Buscar descuentos" },
+    { "ingles": "Pay with contactless card", "espanol": "Pagar con tarjeta sin contacto" },
+    { "ingles": "Ask for paper or plastic bags", "espanol": "Pedir bolsas de papel o plástico" },
+    { "ingles": "Keep the receipt", "espanol": "Guardar el recibo / factura" },
+    { "ingles": "Return a damaged item", "espanol": "Devolver un producto dañado" }
+  ],
+  "Driving a truck": [
+    { "ingles": "Do a pre-trip inspection", "espanol": "Hacer inspección previa al viaje" },
+    { "ingles": "Check tire pressure", "espanol": "Revisar presión de llantas" },
+    { "ingles": "Adjust mirrors and seat", "espanol": "Ajustar espejos y asiento" },
+    { "ingles": "Refuel the truck", "espanol": "Tanquear / poner combustible al camión" },
+    { "ingles": "Secure the cargo straps", "espanol": "Asegurar las correas de carga" },
+    { "ingles": "Scale the load at a station", "espanol": "Pesar la carga en báscula" },
+    { "ingles": "Check GPS navigation route", "espanol": "Revisar ruta de navegación GPS" },
+    { "ingles": "Park at the loading dock", "espanol": "Estacionar en el muelle de carga" }
+  ],
+  "As a manager": [
+    { "ingles": "Lead the morning briefing", "espanol": "Liderar la reunión matutina" },
+    { "ingles": "Delegate daily tasks", "espanol": "Delegar tareas diarias" },
+    { "ingles": "Review performance reports", "espanol": "Revisar reportes de rendimiento" },
+    { "ingles": "Conduct a job interview", "espanol": "Realizar una entrevista de trabajo" },
+    { "ingles": "Handle a client complaint", "espanol": "Manejar una queja de cliente" },
+    { "ingles": "Approve budget expenses", "espanol": "Aprobar gastos de presupuesto" },
+    { "ingles": "Schedule team shifts", "espanol": "Programar turnos del equipo" },
+    { "ingles": "Motivate the staff", "espanol": "Motivar al personal" }
+  ]
+}
