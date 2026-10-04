@@ -4,5 +4,12 @@
   "compatibility_date": "2026-08-23",
   "assets": {
     "directory": "."
-  }
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "ingles-db",
+      "database_id": "9685dfc9-7b00-469b-bd01-2d925ed8e9df"
+    }
+  ]
 }
